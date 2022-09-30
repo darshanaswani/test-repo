@@ -1,6 +1,6 @@
 const func = () => {
   console.log("Hello world");
-  console.log("This is suraj chitroda and tushar solanki");
+  console.log("This is suraj chitroda and tushar solanki and agaun suraj");
 };
 
 func();
